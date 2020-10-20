@@ -1,3 +1,5 @@
+
 To run app => `npm start`
-Deployment => ""
+
+Deployment => https://tlapp.vercel.app/
  
